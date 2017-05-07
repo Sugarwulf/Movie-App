@@ -1,0 +1,21 @@
+{
+  "name": "MovieApp",
+  "homepage": "n",
+  "authors": [
+    "Reggie Bingham <reggiebing11@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}

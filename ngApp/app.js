@@ -1,0 +1,5 @@
+var MyApp;
+(function (MyApp) {
+    angular.module("MovieApp", []);
+})(MyApp || (MyApp = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiYXBwLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLElBQVUsS0FBSyxDQUVkO0FBRkQsV0FBVSxLQUFLO0lBQ2IsT0FBTyxDQUFDLE1BQU0sQ0FBQyxVQUFVLEVBQUUsRUFBRSxDQUFDLENBQUM7QUFDakMsQ0FBQyxFQUZTLEtBQUssS0FBTCxLQUFLLFFBRWQiLCJzb3VyY2VzQ29udGVudCI6WyJuYW1lc3BhY2UgTXlBcHAge1xuICBhbmd1bGFyLm1vZHVsZShcIk1vdmllQXBwXCIsIFtdKTtcbn1cbiJdfQ==

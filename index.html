@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html ng-app="MovieApp">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body ng-controller='MovieListController as controller'>
+    <h2>Movies</h2>
+
+    <ul>
+      <li ng-repeat="movies in controller.movies">{{movies.title}}</li>
+    </ul>
+
+<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+<script src="ngApp/app.js"></script>
+<script src="ngApp/controller.js"></script>
+
+  </body>
+</html>
